@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.aedae8ed.css",
-    "main.js": "/react-gh-pages/static/js/main.387572dc.js",
-    "static/media/AR-VR.jpg": "/react-gh-pages/static/media/AR-VR.1314d38deb20799097ad.jpg",
-    "static/media/coding.gif": "/react-gh-pages/static/media/coding.18bcba89d4290c3f7580.gif",
-    "index.html": "/react-gh-pages/index.html",
-    "main.aedae8ed.css.map": "/react-gh-pages/static/css/main.aedae8ed.css.map",
-    "main.387572dc.js.map": "/react-gh-pages/static/js/main.387572dc.js.map"
+    "main.css": "/components/static/css/main.aedae8ed.css",
+    "main.js": "/components/static/js/main.907998cb.js",
+    "static/media/AR-VR.jpg": "/components/static/media/AR-VR.1314d38deb20799097ad.jpg",
+    "static/media/coding.gif": "/components/static/media/coding.18bcba89d4290c3f7580.gif",
+    "index.html": "/components/index.html",
+    "main.aedae8ed.css.map": "/components/static/css/main.aedae8ed.css.map",
+    "main.907998cb.js.map": "/components/static/js/main.907998cb.js.map"
   },
   "entrypoints": [
     "static/css/main.aedae8ed.css",
-    "static/js/main.387572dc.js"
+    "static/js/main.907998cb.js"
   ]
 }
