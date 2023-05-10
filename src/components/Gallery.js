@@ -20,10 +20,10 @@ function Gallery() {
         </div>
         <div className="img5">
           <img src={Images}></img>
-        </div>
+          </div>
         <div className="img6">
           <img src={Images}></img>
-        </div>
+          </div>
       </div>
     </div>
   );

@@ -3,13 +3,13 @@ import Button from "./Button";
 import Images from "../img/AR-VR.jpg";
 import Images2 from "../img/coding.gif";
 
-function Banner() {
+function Banner(props) {
   return (
     <div className="hero-banner">
       <div className="hero-banner_content">
         <div className="hero-banner_box">
           <div className="hero-banner_box-left">
-            <h2 className="hero-banner_title">Tech-Quick</h2>
+            <h2 className={props.type}>{props.text}</h2>
             <p>
               Connect with like-minded induviduals and expand your network; all
               while learning about the latest tech news and trends.
