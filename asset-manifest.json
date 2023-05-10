@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/components/static/css/main.aedae8ed.css",
-    "main.js": "/components/static/js/main.907998cb.js",
+    "main.js": "/components/static/js/main.b16e998e.js",
     "static/media/AR-VR.jpg": "/components/static/media/AR-VR.1314d38deb20799097ad.jpg",
     "static/media/coding.gif": "/components/static/media/coding.18bcba89d4290c3f7580.gif",
     "index.html": "/components/index.html",
     "main.aedae8ed.css.map": "/components/static/css/main.aedae8ed.css.map",
-    "main.907998cb.js.map": "/components/static/js/main.907998cb.js.map"
+    "main.b16e998e.js.map": "/components/static/js/main.b16e998e.js.map"
   },
   "entrypoints": [
     "static/css/main.aedae8ed.css",
-    "static/js/main.907998cb.js"
+    "static/js/main.b16e998e.js"
   ]
 }
